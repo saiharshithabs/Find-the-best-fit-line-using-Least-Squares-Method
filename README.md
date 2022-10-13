@@ -62,6 +62,7 @@ OUTPUT:
 
 ![image](https://github.com/saiharshithabs/Find-the-best-fit-line-using-Least-Squares-Method/blob/5a0500b6c0a85c2c3ce68ab2a873214c0466ec1e/WhatsApp%20Image%202022-10-13%20at%2010.45.22%20AM.jpeg)
 
+![image](https://github.com/saiharshithabs/Find-the-best-fit-line-using-Least-Squares-Method/blob/c3393606ed4f738103abfe69d6c43cbe32bc0b7b/WhatsApp%20Image%202022-10-13%20at%2010.47.48%20AM%20(1).jpeg)
 
 RESULT:
 
