@@ -58,7 +58,7 @@ plt.show()
 
 OUTPUT:
 
-![image](WhatsApp Image 2022-10-13 at 10.41.26 AM.jpeg)
+![image](https://github.com/saiharshithabs/Find-the-best-fit-line-using-Least-Squares-Method/blob/0541a6c8aab70b65ee2cc55629a2c9b5b2a6f550/WhatsApp%20Image%202022-10-13%20at%2010.41.26%20AM.jpeg)
 
 
 
