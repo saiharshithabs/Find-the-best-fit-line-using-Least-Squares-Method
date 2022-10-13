@@ -55,16 +55,12 @@ print(Y_pred)
 plt.scatter(X,Y,color='purple')
 plt.plot(X,Y_pred,color='red') 
 plt.show() 
-
 ```
 
 OUTPUT:
 
-<img width="275" alt="image" src="https://user-images.githubusercontent.com/114233500/195505706-b1f866b2-bce6-41a6-833e-35311c0c6b47.png">
+<img width="289" alt="image" src="https://user-images.githubusercontent.com/114233500/195506485-08bbc994-567d-4ef8-99b8-86dffd0ae0e0.png">
 
-<img width="146" alt="image" src="https://user-images.githubusercontent.com/114233500/195505868-fe6e8611-132e-4d63-9563-ddaf2f8eeae7.png">
-
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/114233500/195505914-c0861132-efb3-4f31-9114-f27cb671cb34.png">
 
 
 RESULT:
