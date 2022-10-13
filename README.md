@@ -59,7 +59,7 @@ plt.show()
 
 OUTPUT:
 
-<img width="289" alt="image" src="https://user-images.githubusercontent.com/114233500/195506485-08bbc994-567d-4ef8-99b8-86dffd0ae0e0.png">
+![image](WhatsApp Image 2022-10-13 at 10.41.26 AM.jpeg)
 
 
 
