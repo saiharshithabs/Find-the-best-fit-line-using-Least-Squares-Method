@@ -1,31 +1,20 @@
-# Implementation of Univariate Linear Regression
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+
 ## AIM:
-To implement univariate Linear Regression to fit a straight line using least squares.
+To write a program to predict the marks scored by a student using the simple linear regression model.
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Get the independent variable X and dependent variable Y.
-2. Calculate the mean of the X -values and the mean of the Y -values.
-3. Find the slope m of the line of best fit using the formula. 
-<img width="231" alt="image" src="https://user-images.githubusercontent.com/93026020/192078527-b3b5ee3e-992f-46c4-865b-3b7ce4ac54ad.png">
-4. Compute the y -intercept of the line by using the formula:
-<img width="148" alt="image" src="https://user-images.githubusercontent.com/93026020/192078545-79d70b90-7e9d-4b85-9f8b-9d7548a4c5a4.png">
-5. Use the slope m and the y -intercept to form the equation of the line.
-6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
+1.Import the needed packages 2.Assigning hours To X and Scores to Y 3.Plot the scatter plot 4.Use mse,rmse,mae formmula to find.
 
 ## Program:
-/*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: B S SAI HARSHITHA
-RegisterNumber:  212220040139
-*/
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: M.BHAVISHYA
-RegisterNumber:  212221230061
+Developed by: B S SAIHARSHITHA
+RegisterNumber:  212220040139
 
 import pandas as pd
 import numpy as np
@@ -82,13 +71,16 @@ print("MAE = ",mae)
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 
-
 ```
 
-OUTPUT:
+## Output:
+![image](https://user-images.githubusercontent.com/94679395/195085655-8300c13c-e33c-4bac-a026-5d33096f8ef7.png)
+![image](https://user-images.githubusercontent.com/94679395/195085750-4071308e-9e75-40cd-adc0-40544725499b.png)
+![image](https://user-images.githubusercontent.com/94679395/195085807-a468d9b4-fe4d-4d20-8770-cf2216ba8b93.png)
+![image](https://user-images.githubusercontent.com/94679395/195085844-6fca57c0-9ebc-4f7f-b602-7adba4e228ae.png)
+![image](https://user-images.githubusercontent.com/94679395/195085931-9cbe2672-da09-439b-a432-48f57252c282.png)
 
-![image](
-RESULT:
 
-Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
 
+## Result:
+Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
