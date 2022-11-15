@@ -49,7 +49,7 @@ plt.show()
 
 OUTPUT:
 
-![image](
+![image](https://github.com/saiharshithabs/Find-the-best-fit-line-using-Least-Squares-Method/blob/2ed49748e76d40e7ffb0a138b2465aee01ee2377/WhatsApp%20Image%202022-11-15%20at%2021.10.06.jpg)
 
 RESULT:
 
